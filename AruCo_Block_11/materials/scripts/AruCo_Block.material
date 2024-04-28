@@ -1,0 +1,15 @@
+material block11
+ {
+    technique
+    {
+       pass
+        {
+          texture_unit
+          {
+            texture board_11.png
+            scale 1 1
+            // this means that the texture will be tiled 10 times (1/10 = 0.1)
+          }
+       }   
+    }
+ }
