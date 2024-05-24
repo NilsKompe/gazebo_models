@@ -3,7 +3,7 @@
   <model name="AruCo_Block_17">
     <static>true</static>
     <link name='chassis'>
-            <pose>1 -2.5 0.15 0 0</pose>
+            <pose>6 -4 0.15 0 0</pose>
             <!-- <pose>1.75 0.75 0.15 0 0 0</pose> -->
 
             <collision name='collision'>
